@@ -1,0 +1,19 @@
+touch IBlock.h
+touch JBlock.h
+touch LBlock.h
+touch OBlock.h
+touch SBlock.h
+touch ZBlock.h
+touch TBlock.h
+touch StarBlock.h
+touch block.h
+
+touch IBlock.cc
+touch JBlock.cc
+touch LBlock.cc
+touch OBlock.cc
+touch SBlock.cc
+touch ZBlock.cc
+touch TBlock.cc
+touch StarBlock.cc
+touch block.cc
